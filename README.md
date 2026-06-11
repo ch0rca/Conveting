@@ -18,12 +18,6 @@ ConVeting은 이러한 문제를 해결하기 위해 AI 기반 질환 진단과 
 
 * 2024.07.01 ~ 2024.08.21
 
-### 팀 구성
-
-* Backend × 2
-* AI × 2
-* Frontend × 2
-
 ---
 
 ## ✨ Main Features
